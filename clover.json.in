@@ -1,0 +1,9 @@
+{
+  "name": "MyNativePlugin",
+  "type": "native",
+  "version": "0.1.0",
+  "author": "your-name",
+  "description": "CloverNT Native Plugin Template",
+  "platform": "@PLUGIN_PLATFORM@",
+  "entry": "@PLUGIN_ENTRY@"
+}
